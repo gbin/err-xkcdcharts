@@ -18,6 +18,9 @@ Draw XKCD looking charts in your chatroom.
 • !xy​ - usage: xy [-h] [--ylabel YLABEL] [--xlabel XLABEL] [--ylim YLIM] [--xlim XLIM]
 ```
 
+Note: be careful, this is just an example plugin and your generated charts are **public**.
+Please use another storage for sensitive stuff in your team.
+
 Special thanks to [Randall Munroe for XKCD!](http://xkcd.com/)
 
 
