@@ -1,0 +1,9 @@
+[Core]
+Name = XKCDCharts
+Module = xkcdcharts.py
+
+[Documentation]
+Description = Draw XKCD looking charts in your chatroom.
+
+[Errbot]
+min = 4.2.0
